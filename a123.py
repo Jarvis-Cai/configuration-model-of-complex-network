@@ -7,3 +7,6 @@ class Big(object):
 
     def gooto(self):
         print 'gooto'
+
+    def heihei(self):
+	print "get off"
