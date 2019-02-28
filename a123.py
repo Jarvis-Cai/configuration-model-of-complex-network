@@ -7,3 +7,6 @@ class Big(object):
 
     def gooto(self):
         print 'gooto'
+
+    def doanything(self):
+        print 'I am happy enough!!'
